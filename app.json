@@ -9,9 +9,9 @@
         "Bot",
         "V2"
     ],
-    "website": "https://github.com/MRK-YT",
-    "repository": "https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/mo_tech_yt",
+    "website": "https://telegram.me/Enox_hindi_movies_super_hero_all",
+    "repository": "https://telegram.me/Enox_hindi_movies_super_hero_all",
+    "success_url": "https://telegram.me/Enox_hindi_movies_super_hero_all",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
